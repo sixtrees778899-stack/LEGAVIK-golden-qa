@@ -338,3 +338,5 @@ body.attachment-drawer-open main[data-view="attachments"]:has(.attachment-module
 .generation-spinner[hidden]{display:none}
 @keyframes golden-processing{to{transform:rotate(360deg)}}
 @media(prefers-reduced-motion:reduce){.generation-spinner{animation-duration:3s}}
+
+#internal-mainnet-log{white-space:pre-wrap;overflow-wrap:anywhere}
